@@ -1,16 +1,33 @@
-## Hi there 👋
+# 你好👋
+保定理工学院｜物联网工程 大二
+求职方向：嵌入式软件开发 / 单片机开发 / AI开发实习
 
-<!--
-**cibailuo/cibailuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 关于我
+熟悉C语言，会ESP8266(NodeMCU)开发，能够独立完成硬件接线、代码调试、网页控制面板开发、局域网多板主从通信。
+作为团队负责人参与具身智能竞赛，负责硬件方案设计、通信调度与联调。
+同时会使用 Vibe Coding 进行前端与微信小程序开发。
+正在持续做嵌入式实战项目。
 
-Here are some ideas to get you started:
+## 技术栈
+- 编程语言：C语言
+- 硬件：ESP8266 NodeMCU、继电器模块
+- 开发工具：Arduino IDE、Keil、串口调试助手
+- 通信：WiFi、TCP、HTTP局域网通信
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 项目
+### 分布式WiFi智能家居控制系统（ESP8266）
+主板+多副板架构，HTTP局域网通信，网页控制多路继电器，用来控制风扇、加湿器、空气净化器等电器设备。
+职责：整体方案设计、Web服务开发、网页UI美化、多板通信调试、继电器驱动调试。
+
+## 知识口袋（一扫而胱）
+基于 Vibe Coding 平台开发，已上架微信小程序平台。
+项目定位：知识收纳、知识点记录查阅工具，支持内容分类存储、快速翻看笔记。
+职责：前端页面编写、交互逻辑实现、小程序打包上架调试。
+
+## 获奖
+- 蓝桥杯 省级二等奖
+- 码蹄杯 国奖、省二等奖
+- 校级电子设计竞赛第三
+
+## 联系我
+邮箱：z375965347@163.com
